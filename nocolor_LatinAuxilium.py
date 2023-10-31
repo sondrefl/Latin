@@ -1,5 +1,5 @@
 import random
-from colorama import Fore, Style
+
 
 def odst():
 
@@ -67,7 +67,7 @@ def odst():
     """
     for i in range(len(latin)):
         print(f"{i}, {latin[i]}")
-
+    
     print(category)
 
     """
@@ -77,7 +77,7 @@ def odst():
 
 def quiz_med_alternativ(latin, norsk, d, d_nor):
     """
-    Under maintenance
+    Under maintenens
 
     latin, liste med utrykk på latin
     norsk, liste med norsk oversetelse av ordene i latin listen
@@ -99,25 +99,26 @@ def quiz_med_alternativ(latin, norsk, d, d_nor):
         if len(used) == len(latin):
 
             if len(list_wrong) == 0:
-                print(f"\n{Fore.GREEN}Gratulerer du klarte alle ordene!!!{Style.RESET_ALL}")
-                return 0
+                print(f"\nGratulerer du klarte alle ordene!!!")
+                break
             else:
                 print("\nDu fikk følgene ord riktig")
 
                 for i in list_correct:
-                    print(f"{Fore.GREEN}{i} = {d[i]}{Style.RESET_ALL}")
+                    print(f"{i} = {d[i]}")
 
                 print("\nDu fikk følgene ord feil")
 
                 for i in list_wrong:
-                    print(f"{Fore.RED}{i} = {d[i]}{Style.RESET_ALL}")
+                    print(f"{i} = {d[i]}")
 
-                return 0
+                break
 
         word = random.choice(latin)
         nor_word = d[word]
 
         if word not in used:
+            #print(used)
             used.append(word)
         else:
             continue
@@ -150,8 +151,9 @@ def quiz_med_alternativ(latin, norsk, d, d_nor):
             print(f"{i}. {halo}")
             odst.remove(halo)
 
+        #print(f"\n{rep}/{len(land_input)}")
         print("")
-        print(f"{Fore.GREEN}Correct: {correct}{Style.RESET_ALL} {Fore.RED}Wrong: {wrong}{Style.RESET_ALL} number of words: {len(latin)}")
+        print(f"Correct: {correct} Wrong: {wrong} number of words: {len(latin)}")
         
         for _ in range(5):
 
@@ -177,7 +179,7 @@ def quiz_med_alternativ(latin, norsk, d, d_nor):
             correct += 1
             list_correct.append(word)
             #print("Riktig!!!")
-            print(f"{Fore.GREEN}Riktig!!!{Style.RESET_ALL}")
+            print(f"Riktig!!!")
 
             if len(used) == len(latin):
                 master = input("That was all the questions, q to quit, enter to see the result: ")
@@ -193,7 +195,7 @@ def quiz_med_alternativ(latin, norsk, d, d_nor):
                     continue
         else:
 
-            print(f"\n{Fore.RED}***Desverre feil***{Style.RESET_ALL}\nRiktig svar: {nor_word}\n")
+            print(f"\n***Desverre feil***\nRiktig svar: {nor_word}\n")
             rep += 1
             wrong += 1
             master = input("q to quit, enter to continue: ")
@@ -226,6 +228,11 @@ if __name__ == "__main__":
         print("\nWelcome to Latin Auxilium\n")
         print("*"*25)
         print("\nwhat category do you want to practice?\n")
+
+        #print(category[0][1],category[0][2])
+        #print(latin[category[2][1]:category[2][2]])
+
+
 
         for i in range(len(category)):
             print(f"{i+1}. {category[i][0]}")
@@ -262,4 +269,3 @@ if __name__ == "__main__":
             continue
         else:
             break
-

@@ -260,6 +260,6 @@ if __name__ == "__main__":
 
         if again == "YES" or again == "yes":
             continue
-        else:
+        else: 
             break
 

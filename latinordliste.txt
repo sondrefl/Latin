@@ -1,10 +1,10 @@
 Sirkulasjonssystemet
-Aorta           HovedpulsÃ¥ren
+Aorta           Hovedpulsåren
 Atrium              Hjertets forkammer
 Ventrikkel              Hjertes hovedkammer
 Cervix                  Hals
 Vena cava Inferior               Nedre hulvene
-Vena cava Superior              Ã˜vre hulvene
+Vena cava Superior              Øvre hulvene
 Perikard                    Hjerteposen
 Cor                 Hjertet
 Septum              Skillevegg
@@ -12,16 +12,16 @@ Truncus pulmonalis              Lungearterien
 Anulus fibrosus             Fibret bindevev
 Pharynx                 Svelget
 Apex cordis             Hjertespissen
-chordae tendineae               Sterke bindevevstrÃ¥der i hjerte
+chordae tendineae               Sterke bindevevstråder i hjerte
 Epicard             Ytterste cellelag av hjertet
 Respirasjonssystemet
 Diaphragma              Mellomgulvet
-broncus                 LuftrÃ¸rsgren
-Alveolus                LungeblÃ¦ren
+broncus                 Luftrørsgren
+Alveolus                Lungeblæren
 Pleura              Brysthinnen
 Epiglogttis             Strupelokket
 Larynx              Strupehodet
-Trachea                 LuftrÃ¸ret
+Trachea                 Luftrøret
 Nervesystemet
 Cerebellum              Lillehjernen
 Cerebrum                Storhjernen
@@ -34,12 +34,12 @@ pons                    Bro(Hjernebro)
 Arachnoidea                 Spindelvevshinnen
 Dura mater          Den harde mor
 Pia mater           Den muke mor
-FordÃ¸yelsessystemet
+Fordøyelsessystemet
 Duodenum            Tolvfingertarmen
 Colon Sigmoideum              S-formede delen av tykktarmne
-Colon transversum           Den tverrgÃ¥ende tykktarm
+Colon transversum           Den tverrgående tykktarm
 Colon ascendens             Den oppadstigende tykktarm 
-Colon descendens            Den nedadgÃ¥ende tykktarm
+Colon descendens            Den nedadgående tykktarm
 Jejunum                 Tynntarmens midtsegment
 Ileum               Nedre del av tynntarmen 
 Rectum              Endetarmen
@@ -53,61 +53,62 @@ Hepar               Leveren
 Arteria Hepatica            Leverarterien
 Ventriculus             Magesekken
 Lumun           Hulrom i tarmen
-Oesophagus                  SpiserÃ¸r
+Oesophagus                  Spiserør
 Skjelletet
 Costa           Ribbeina
 Thorax              Brystkassen
 Cranium             Hodeskallen
 Sternum             Brystbeinet
-Femur               LÃ¥rbeinet
+Femur               Lårbeinet
 Os tibia                Skinnbeinet
 Os fibula                  leggbeinet
-Patella             KneskÃ¥l
+Patella             Kneskål
 Brachium                    Overarm/arm
 Os cuboideum                Terningbenet
 Pollex                  Tommel
-Os scaphoideum              BÃ¥tbeinet
+Os scaphoideum              Båtbeinet
 Os clavicula                Kragebeinet
 Os scapula                  Skulderbladet
-Os lunatum              MÃ¥nebeinet
-Prosessus xiphoideus                Spissen pÃ¥ brystbenet
+Os lunatum              Månebeinet
+Prosessus xiphoideus                Spissen på brystbenet
 Humerus                 Overarmsbeinet
-Calcaneus               HÃ¦lbeinet
+Calcaneus               Hælbeinet
 Os coxae            Hoftebeinet
 os Sacrum           Korsbeinet
 Musklene
 Musculus rectus abdominis               Six Pack
 Musculus trapezius              Kappemuskelen
 Musculus pectoralis major               Brystmuskelen
-Mentum inguinale                LyskebÃ¥ndet
+Mentum inguinale                Lyskebåndet
 Canalis inguinale               Lyskekanalen
 Musculus deltoideum             Deltamuskelen
 Musculus latissimus dorsi           Den brede ryggmuskelen
 Musculus serratus Anterior              fremre sagmuskel
 Lingua              Tunge
 Plan og posisjoner
-Dexter              HÃ¸yre
+Dexter              Høyre
 Sinister            Venstre
 Externus/externa            Ytterst
 Internus/interna            Innerst
-Abduksjon               FÃ¸re vekk ifra
+Abduksjon               Føre vekk ifra
 Ventralt                Den bakre del av frontalplanet
 Dorsalt                 Den framre del av frontalplanet
 Coronalt                Scrolle i frontalplanet
 Sagitalt                Scrolle i medialplanet
 Aksialt                 scrolle i transversalplanet
 Distalt                 Lengst unna
-Proksimalt              NÃ¦rmest
+Proksimalt              Nærmest
 Inferior                Den nedre
-Superior                Den Ã¸vre
+Superior                Den øvre
 Anterior            Den fremre
 Posterior           Den bakre
 Lateralt            Lengst unna medialplanet
-Medialt             NÃ¦rmest medialplanet
+Medialt             Nærmest medialplanet
 Annet
 Antrum            Hule
-Apertura            Ã¥pning
+Apertura            åpning
 Apex                Spiss
 Arcus               Bue
 Truncus             Hoveddel
 Torso               Kroppen uten hode
+Umbilicus            Navelen

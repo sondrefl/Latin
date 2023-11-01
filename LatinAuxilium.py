@@ -128,7 +128,7 @@ def quiz_med_alternativ(latin, norsk, d, d_nor):
 
         for _ in range(20):
             """
-            Making a list of alternativ answers
+            Making a list of alternative answers
             """
             halo = random.choice(norsk)
 

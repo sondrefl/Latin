@@ -36,6 +36,11 @@ Dura mater          Den harde mor
 Pia mater           Den muke mor
 Fordøyelsessystemet
 Duodenum            Tolvfingertarmen
+Cavum Oris          Munnhulen
+Glandulae           kjertel
+Vesica biliaris             Galleblæren
+Appendix vermisformis               Blindtarmvedhenget
+Coecum              Blindtarmen
 Colon Sigmoideum              S-formede delen av tykktarmne
 Colon transversum           Den tverrgående tykktarm
 Colon ascendens             Den oppadstigende tykktarm 
@@ -52,7 +57,7 @@ Vena portae             Portvenen
 Hepar               Leveren
 Arteria Hepatica            Leverarterien
 Ventriculus             Magesekken
-Lumun           Hulrom i tarmen
+Lumen           Hulrom i tarmen
 Oesophagus                  Spiserør
 Skjelletet
 Costa           Ribbeina
@@ -110,5 +115,5 @@ Apertura            åpning
 Apex                Spiss
 Arcus               Bue
 Truncus             Hoveddel
-Torso               Kroppen uten hode
+Torso               Kroppen uten hode, armer og ben
 Umbilicus            Navelen

@@ -60,6 +60,20 @@ Ventriculus             Magesekken
 Lumen           Hulrom i tarmen
 Oesophagus                  Spiserør
 Skjelletet
+Os frontale             Pannebeinet
+Os parietale            Issebeinet 
+Os occipitale            Bakhodebeinet
+Os sphenoidale              Kilebeinet
+Os temporale            Tinningbeinet
+Os nesale           Nesebeinet
+Os zygomaticum          Kinnbeinet
+Maxilla         Overkjevebeinet
+Mandibula           Underkjevebeinet
+Vertebrae           Virvlene
+Ulna            Albuebeinet
+Radius          Spolebeinet
+Ossa Matecarpalia           Mellomhåndsknoklene
+Ossa digitorum manus            Fingerknoklene
 Costa           Ribbeina
 Thorax              Brystkassen
 Cranium             Hodeskallen
@@ -96,8 +110,8 @@ Sinister            Venstre
 Externus/externa            Ytterst
 Internus/interna            Innerst
 Abduksjon               Føre vekk ifra
-Ventralt                Den bakre del av frontalplanet
-Dorsalt                 Den framre del av frontalplanet
+Dorsalt                Den bakre del av frontalplanet
+Ventralt                 Den framre del av frontalplanet
 Coronalt                Scrolle i frontalplanet
 Sagitalt                Scrolle i medialplanet
 Aksialt                 scrolle i transversalplanet

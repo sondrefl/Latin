@@ -41,6 +41,7 @@ Glandulae           kjertel
 Vesica biliaris             Galleblæren
 Appendix vermisformis               Blindtarmvedhenget
 Coecum              Blindtarmen
+Ren             Nyrer
 Colon Sigmoideum              S-formede delen av tykktarmne
 Colon transversum           Den tverrgående tykktarm
 Colon ascendens             Den oppadstigende tykktarm 
@@ -48,6 +49,7 @@ Colon descendens            Den nedadgående tykktarm
 Jejunum                 Tynntarmens midtsegment
 Ileum               Nedre del av tynntarmen 
 Rectum              Endetarmen
+Glandulae suprarenales              Binyrer
 Pancreas                Bukspyttkjertelen
 colon                   tykktarm
 Mucosa              Slimhinne
@@ -75,12 +77,13 @@ Radius          Spolebeinet
 Ossa Matecarpalia           Mellomhåndsknoklene
 Ossa digitorum manus            Fingerknoklene
 Costa           Ribbeina
+Columna             Ryggsøylen
 Thorax              Brystkassen
 Cranium             Hodeskallen
 Sternum             Brystbeinet
 Femur               Lårbeinet
 Os tibia                Skinnbeinet
-Os fibula                  leggbeinet
+Os fibula                  Leggbeinet
 Patella             Kneskål
 Brachium                    Overarm/arm
 Os cuboideum                Terningbenet
